@@ -1,2 +1,2 @@
-# MorrisGame
-MorrisGame With AI
+# Morris Game
+Morris Game with AI
