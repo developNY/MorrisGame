@@ -1,0 +1,5 @@
+Input Position: BWBBWBWxWWxxWxxxBWxBW
+Ply(depth): 3
+Board Position : BWBBWBWxWWxxWxxBxWxBW
+Positions evaluated by static estimation : 1265
+MiniMax estimate : 2997

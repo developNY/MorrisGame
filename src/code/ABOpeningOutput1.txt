@@ -1,0 +1,5 @@
+Input Position: WBBxxxxBxxxBWxxxxxWxW
+Depth: 1
+Board Position : WxBxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation : 22
+MiniMax estimate : 2
